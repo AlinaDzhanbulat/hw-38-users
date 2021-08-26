@@ -1,0 +1,22 @@
+.parentdiv {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.childiv{
+    margin-bottom: 100px;
+    align-items: center;
+    margin: 10px;
+    background-color: teal;
+    border-radius: 5px;
+    font-family: cursive;
+    color: mistyrose;
+    font-size: 18px;
+
+}
+
+.img{
+    width: 220px;
+    height:  220px;
+}
