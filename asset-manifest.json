@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hw-38-users/static/css/main.2f6a3814.chunk.css",
+    "main.js": "/hw-38-users/static/js/main.9583692c.chunk.js",
+    "main.js.map": "/hw-38-users/static/js/main.9583692c.chunk.js.map",
+    "runtime-main.js": "/hw-38-users/static/js/runtime-main.0026f2c1.js",
+    "runtime-main.js.map": "/hw-38-users/static/js/runtime-main.0026f2c1.js.map",
+    "static/js/2.01f15109.chunk.js": "/hw-38-users/static/js/2.01f15109.chunk.js",
+    "static/js/2.01f15109.chunk.js.map": "/hw-38-users/static/js/2.01f15109.chunk.js.map",
+    "index.html": "/hw-38-users/index.html",
+    "static/css/main.2f6a3814.chunk.css.map": "/hw-38-users/static/css/main.2f6a3814.chunk.css.map",
+    "static/js/2.01f15109.chunk.js.LICENSE.txt": "/hw-38-users/static/js/2.01f15109.chunk.js.LICENSE.txt",
+    "static/media/amanda.439983c6.jpg": "/hw-38-users/static/media/amanda.439983c6.jpg",
+    "static/media/bilu.9bf72239.jpg": "/hw-38-users/static/media/bilu.9bf72239.jpg",
+    "static/media/dual.3ffc4c73.jpg": "/hw-38-users/static/media/dual.3ffc4c73.jpg",
+    "static/media/eld.aeb714ec.jpg": "/hw-38-users/static/media/eld.aeb714ec.jpg",
+    "static/media/meka.f8f3c7b4.jpg": "/hw-38-users/static/media/meka.f8f3c7b4.jpg",
+    "static/media/usamen.2957e2be.jpg": "/hw-38-users/static/media/usamen.2957e2be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0026f2c1.js",
+    "static/js/2.01f15109.chunk.js",
+    "static/css/main.2f6a3814.chunk.css",
+    "static/js/main.9583692c.chunk.js"
+  ]
+}
